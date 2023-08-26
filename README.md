@@ -1,14 +1,12 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://www.linkedin.com/in/suchetanchanda)
 <h1 align="center">Hi 👋, I'm Suchetan Chanda</h1>
 <h3 align="center">A passionate Java Full Stack Developer from India</h3>
-<img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suchetanchanda&label=Profile%20views&color=0e75b6&style=flat" alt="suchetanchanda" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suchetanchanda" alt="suchetanchanda" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/suchetanchanda" target="blank"><img src="https://img.shields.io/twitter/follow/suchetanchanda?logo=twitter&style=for-the-badge" alt="suchetanchanda" /></a> </p>
-
+<img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 - 🔭 I’m currently working on [Sangnet](https://github.com/sayakongit/status-code-sangnet)
 
 - 🌱 I’m currently learning **Solidity , Web 3.0**
