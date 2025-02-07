@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suchetanchanda" alt="suchetanchanda" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/suchetanchanda" target="blank"><img src="https://img.shields.io/twitter/follow/suchetanchanda?logo=twitter&style=for-the-badge" alt="suchetanchanda" /></a> </p>
-<img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="Coding" width="300" src="https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzg5NjQzMTQsIm5iZiI6MTczODk2NDAxNCwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTM0ODAtMjE5YmNjNzAtZjVkYy00NjZiLTlhNjAtMjk2NTNkOGU4NDMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjA3VDIxMzMzNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQzMTYxMTJiNzBiYWFiYTFmOWVlNWQ1ZGRlODAyYWIwMmM2ZjU4MGI5MGQ2ZDMxYWUyNWQ3ODUyMmRkNTkxMWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.elI2jeLPd17UeqFthasU5j-DK8x0v_xWN4NagrwrNPs">
 - 🔭 I’m currently working on [Sangnet](https://github.com/sayakongit/status-code-sangnet)
 
 - 🌱 I’m currently learning **Next. js , Langchain**
