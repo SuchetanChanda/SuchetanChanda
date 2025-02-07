@@ -9,13 +9,13 @@
 <img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 - 🔭 I’m currently working on [Sangnet](https://github.com/sayakongit/status-code-sangnet)
 
-- 🌱 I’m currently learning **Solidity , Web 3.0**
+- 🌱 I’m currently learning **Next. js , Langchain**
 
 - 💬 Ask me about **Spring Boot , React , Web 3.0 , Blockchain , Dev Ops**
 
 - 📫 How to reach me **chanda.suchetan@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1i6R2Hx9o0igdjSsSW7BJjjtHfh4gE7Hp/view?usp=sharing](https://drive.google.com/file/d/1i6R2Hx9o0igdjSsSW7BJjjtHfh4gE7Hp/view?usp=sharing)
+- 📄 Know about my experiences [Click Here]([https://drive.google.com/file/d/1i6R2Hx9o0igdjSsSW7BJjjtHfh4gE7Hp/view?usp=sharing](https://drive.google.com/file/d/1eVFu_XKKec_WOSGakMx0z32vPYD-YUFU/view?usp=sharing))
 
 - ⚡ Fun fact **I am an otaku**
 
