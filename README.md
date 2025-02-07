@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **chanda.suchetan@gmail.com**
 
-- 📄 Know about my experiences [Click Here]([https://drive.google.com/file/d/1i6R2Hx9o0igdjSsSW7BJjjtHfh4gE7Hp/view?usp=sharing](https://drive.google.com/file/d/1eVFu_XKKec_WOSGakMx0z32vPYD-YUFU/view?usp=sharing))
+- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1eVFu_XKKec_WOSGakMx0z32vPYD-YUFU/view?usp=sharing)
 
 - ⚡ Fun fact **I am an otaku**
 
